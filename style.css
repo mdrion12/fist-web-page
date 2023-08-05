@@ -57,3 +57,36 @@
    padding: 20px;
 
 }
+.rahul{
+   display: flex;
+   margin: 40px;
+   background-image: url(image/exp-bg.png);
+   background-repeat: no-repeat;
+   
+}
+#suvo{
+   padding: 40px;
+   box-shadow:10px 10px 10px 10px grey;
+   margin-right: 40px;
+   padding: 60px;
+   border-radius: 10px;
+   border-left: 10px solid;
+   border-image:linear-gradient(tomato,pink);
+     border-image-slice: 1;
+}
+#sperm{
+   padding: 40px;
+   box-shadow: 10px 10px 10px 10px grey;
+   margin-left: 40px;
+   padding: 60px;
+   border-radius: 10px;
+   
+   border-left: 10px solid;
+   border-image: linear-gradient(orange,tomato );
+   border-image-slice: 1;
+    
+}
+footer p{
+   text-align: center;
+
+}
